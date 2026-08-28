@@ -10,6 +10,17 @@ description: 'Aardvark Therapeutics, Inc. is a Nasdaq-listed (AARD) clinical-sta
   science, programs, team, news and investor-relations material, and it publishes no developer
   program, public API, SDK, webhook surface or machine-readable specification of any kind.'
 url: https://raw.githubusercontent.com/api-evangelist/aardvark-therapeutics/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://i0.wp.com/aardvarktherapeutics.com/wp-content/uploads/2022/11/d-footer-logo.png
 x-type: company
 x-source: harvest:secondary-market
