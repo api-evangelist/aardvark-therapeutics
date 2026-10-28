@@ -64,5 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aardvark Therapeutics is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/aardvark-therapeutics_stock/
+Aardvark Therapeutics, Inc. is a Nasdaq-listed (AARD) clinical-stage biopharmaceutical company developing novel small-molecule therapies designed to inhibit hunger and treat metabolic disease. Its lead candidate, ARD-101, is an oral, gut-restricted agonist of bitter taste receptors (TAS2Rs) on the luminal side of the intestine, which triggers the release of satiety hormones to suppress hunger signaling; it has been evaluated for hyperphagia associated with Prader-Willi Syndrome, including the Phase 3 HERO trial, as well as in obesity and hypothalamic obesity. The company operates purely as a drug-development organization: its public web presence consists of science, programs, team, news and investor-relations material, and it publishes no developer program, public API, SDK, webhook surface or machine-readable specification of any kind.
+
+**Areas:** Company · Biotechnology · Pharmaceuticals · Life Sciences · Clinical Trials · Drug Development · Rare Disease · Metabolic Health
+
+## Aardvark Therapeutics on APIs.io
+
+Everything profiled for Aardvark Therapeutics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aardvark-therapeutics/](https://apis.io/providers/aardvark-therapeutics/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [Moved to /providers/aardvark-therapeutics/](https://apis.io/servers/aardvark-therapeutics/aardvark-therapeutics/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aardvark Therapeutics Domain Security](https://apis.io/security/aardvark-therapeutics/aardvark-therapeutics-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aardvarktherapeutics.com/)
+- [Terms of service](https://aardvarktherapeutics.com/legal/terms-of-use/)
+- [Privacy policy](https://aardvarktherapeutics.com/legal/privacy-policy/)
+- [GitHub](https://github.com/Aardvark-Therapeutics)
+
+## API Evangelist rating
+
+**Kin Score 9.6** — minimal · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 52.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 2.2** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | platform (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aardvark-therapeutics/](https://apis.io/providers/aardvark-therapeutics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aardvark Therapeutics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aardvark-therapeutics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
