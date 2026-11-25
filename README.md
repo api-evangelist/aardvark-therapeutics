@@ -99,18 +99,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 9.6** — minimal · rubric 0.25.0 · scored 2026-10-23
+**Kin Score 11.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 52.5 |
+| Discoverability | 53.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 2.6 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 0.0 |
-| Access clarity | 21.1 |
+| Access clarity | 31.9 |
 
-**Agent readiness 2.2** — human-only
+**Agent readiness 2.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -135,8 +135,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 10.9** — Health
+**Regulatory alignment 6.3** — Health
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aardvark-therapeutics/](https://apis.io/providers/aardvark-therapeutics/).
 
